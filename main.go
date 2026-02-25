@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"mylearning/myutil"
+)
 
 func main() {
-	fmt.Println("git commit from the codesandbox")
+	fmt.Println("Learn the first go coding")
+	myutil.PrintMessage("hello this is sam")
 }

@@ -1,0 +1,2 @@
+#Command to create a module file in the go : 
+cmd : go mod init <module_name>
